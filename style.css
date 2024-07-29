@@ -1,0 +1,29 @@
+.container{
+    text-align: center;
+    border: 1px solid red;
+    width: 500px;
+    margin-left: 450px;
+    margin-top: 50px;
+    background-color: pink;
+}
+textarea{
+    width: 80%;
+    height: 100%;
+    border: 2px solid black;
+    font-size: large;
+    padding: 5px;
+}
+.para1{
+    margin-right: 290px;
+    padding: 5px;
+}
+.para2{
+    margin-left: 290px;
+    padding: 5px;
+    position: relative;
+    bottom: 40px;
+}
+/* textarea {
+    width: 100%;
+    resize: vertical;
+} */
